@@ -12,7 +12,9 @@ If you have a proposal for a presentation / technical topic, please send email t
 
 ## Logistics
 
-Location: [Kent Ridge Guild House](https://www.nuss.org.sg/kent-ridge/27), National University of Singapore (NUS)
+Location: [Kent Ridge Guild House](https://www.nuss.org.sg/kent-ridge/27), National University of Singapore (NUS) \[yes, they do have a [dress code][]\]
+
+[dress code]: https://www.nuss.org.sg/news/nuss-dress-code-updated
 
 Time: 9:00 - 17:00, November 15th, 2019
 
