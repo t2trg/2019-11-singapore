@@ -6,7 +6,7 @@ We will have a joint T2TRG / W3C Web of Things (WoT) workshop on Friday, Novembe
 * One Data Model and semantic tools for Thing interoperability 
 * Establishing the desirability of and enabling Thing-to-Thing connectivity
 
-We plan to start the workshop with a couple of keynotes and then dive into technical topics driven by short presentations and related discussions. We hope to engage also with the local research community and invite in particular IoT researchers and practioners from Singapore to join the workshop.
+We plan to start the workshop with a couple of keynotes and then dive into technical topics driven by short presentations and related discussions. We hope to engage also with the local research community and invite in particular IoT researchers and practitioners from Singapore to join the workshop.
 
 If you have a proposal for a presentation / technical topic, please send email to us now (t2trg-chairs@irtf.org), so we can make sure we have space on the agenda.
 
