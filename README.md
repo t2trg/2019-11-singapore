@@ -1,6 +1,6 @@
 # T2TRG / W3C WoT meeting in Singapore
 
-We will have a joint T2TRG / W3C Web of Things (WoT) workshop on Friday, Novevember 15th, in Singapore before the IETF week. We are planning to focus in the workshop on a few broad areas:
+We will have a joint T2TRG / W3C Web of Things (WoT) workshop on Friday, November 15th, in Singapore before the IETF week. We are planning to focus in the workshop on a few broad areas:
 
 * Self-Description, Semantics, and Internet standards; research with W3C Web of Things 
 * One Data Model and semantic tools for Thing interoperability 
