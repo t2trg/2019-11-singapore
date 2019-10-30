@@ -10,6 +10,23 @@ We plan to start the workshop with a couple of keynotes and then dive into techn
 
 If you have a proposal for a presentation / technical topic, please send email to us now (t2trg-chairs@irtf.org), so we can make sure we have space on the agenda.
 
+## Agenda
+
+Detailed timing of the slots to be determined in the next few days.
+
+|         Time | Topic                                      |
+|--------------|--------------------------------------------|
+| 09:00..09:10 | Welcome, Logistics                         |
+| 09:10..10:30 | Keynotes (Singapore, W3C WoT)              |
+| 10:30..10:45 | — Break, Refreshments                      |
+| 10:45..12:00 | Data models and Semantics 1; OneDM intro   |
+| 12:00..13:00 | — Lunch Break (lunch in room)              |
+| 13:00..14:30 | Data models and Semantics 2; OneDM details |
+| 14:30..14:45 | — Break, Refreshments                      |
+| 14:45..16:30 | Semantics-enabled Connectivity             |
+|        16:30 | Wrap-up and close                          |
+
+
 ## Logistics
 
 Location: [Kent Ridge Guild House](https://www.nuss.org.sg/kent-ridge/27), National University of Singapore (NUS) \[yes, they do have a [dress code][]\]
