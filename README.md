@@ -35,6 +35,16 @@ Location: [Kent Ridge Guild House](https://www.nuss.org.sg/kent-ridge/27), Natio
 
 Time: 9:00 - 17:00, November 15th, 2019
 
+## Remote participation
+
+WebEx: https://ietf.webex.com/ietf/j.php?MTID=m535485b7ca1a0bb1ccf9a4b983a9d898
+
+* Call-in toll number (US/Canada): 1-650-479-3208 
+* Meeting number (access code): 319 927 920
+
+
+## Registration
+
 The workshop is free-of-charge to attend, but if you intend to join (locally or remotely), please register as soon as possible but latest two weeks before the event, Friday November 1st, using the following form:
 https://forms.gle/U33jvtFgotWmxcGQ9
 
