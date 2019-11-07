@@ -45,6 +45,6 @@ WebEx: https://ietf.webex.com/ietf/j.php?MTID=m535485b7ca1a0bb1ccf9a4b983a9d898
 
 ## Registration
 
-The workshop is free-of-charge to attend, but if you intend to join (locally or remotely), please register as soon as possible but latest two weeks before the event, Friday November 1st, using the following form:
+The workshop is free-of-charge to attend, but if you intend to join (locally or remotely), please register as soon as possible  using the following form:
 https://forms.gle/U33jvtFgotWmxcGQ9
 
