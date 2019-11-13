@@ -44,6 +44,7 @@ Details for transport from IETF hotels:
     - Take the free NUS shuttle bus leaving from nearby Bus Stop 3.   
     - Take the A1 to get to the Guild House and the A2 to return.
     - Allow 1h.
+    - It is not recommended to walk from the MRT to the Guild house.  The map is misleading, the terrain is hilly and the MRT is surrounded by a large hospital without good walking connection to NUS.  The area is unfortunately designed for cars.
 
 
 ## Remote participation
