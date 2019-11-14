@@ -14,17 +14,25 @@ If you have a proposal for a presentation / technical topic, please send email t
 
 Detailed timing of the slots to be determined in the next few days.
 
-|         Time | Topic                                      |
-|--------------|--------------------------------------------|
-| 09:00..09:10 | Welcome, Logistics                         |
-| 09:10..10:30 | Keynotes (Singapore, W3C WoT)              |
-| 10:30..10:45 | — Break, Refreshments                      |
-| 10:45..12:00 | Data models and Semantics 1; OneDM intro   |
-| 12:00..13:00 | — Lunch Break (lunch in room)              |
-| 13:00..14:30 | Data models and Semantics 2; OneDM details |
-| 14:30..14:45 | — Break, Refreshments                      |
-| 14:45..16:30 | Semantics-enabled Connectivity             |
-|        16:30 | Wrap-up and close                          |
+| Time         | Topic                                                                |
+| ------------ | -------------------------------------------------------------------- |
+| 09:00..09:10 | Welcome, Logistics                                                   |
+| 09:10..09:55 | Keynote: W3C Web of Things (WoT) Status and Roadmap (Michael McCool) |
+| 09:55..10:20 | Introduction to role of semantics for IoT (Carsten Bormann)          |
+| 10:20..10:40 | — Break, Refreshments                                                |
+| 10:40..11:10 | OneDM intro and goals, approach (Michael Koster)                     |
+| 11:00..12:00 | OneDM status, process, formats, examples (Michael Koster)            |
+| 12:00..13:00 | — Lunch Break (lunch in room)                                        |
+| 13:00..13:10 | OneDM tools demo (Ari Keränen)                                       |
+| 13:10..13:40 | Data model versioning (Carsten Bormann)                              |
+| 13:40..14:20 | Discussion (all)                                                     |
+| 14:20..14:40 | — Break, Refreshments                                                |
+|              | Semantics-enabled Connectivity                                       |
+| 14:40..15:10 | How do we enable connectivity: bootstrapping authorization, deploying identities and ridding the world of passwords (Michael Richardson) |
+| 15:10..15:25 | Configuring Time Sensitive Networking (TSN) from W3C WoT Thing Description (TD) (Matthias Kovatsch) |
+| 15:25..15:55 | Manufacturer Usage Descriptions (MUDs) (Eliot Lear)                  |
+| 15:55..16:30 | Thin ICE and semantics of connectivity candidate exchange (Christer Holmberg) |
+| 16:30        | Wrap-up and close (all)                                              |
 
 
 ## Logistics
