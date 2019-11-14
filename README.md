@@ -40,7 +40,7 @@ Details for transport from IETF hotels:
     - If three or four people share it won't be that much more than taking transit.
     - Allow 30–45 minutes (traffic may be heavy in the morning).
 * Public transit:
-    - Get on the MRT Circle line (for example, at the Esplanade station near the Swisshotel) and get off at Kent Ridge Station.
+    - Get on the MRT Circle line (for a cicuitous route, at the Esplanade station near the Swissotel, or preferably, from City Hall station under the Swissotel using the East-West line and changing at Buona Vista station) and get off at Kent Ridge Station.
     - Take the free NUS shuttle bus leaving from nearby Bus Stop 3.   
     - Take the A1 to get to the Guild House and the A2 to return.
     - Allow 1h.
