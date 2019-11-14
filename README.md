@@ -51,6 +51,7 @@ Details for transport from IETF hotels:
 ## Remote participation
 
 WebEx: https://ietf.webex.com/ietf/j.php?MTID=m535485b7ca1a0bb1ccf9a4b983a9d898
+(or https://is.gd/t2trg201911webex for short)
 
 * Call-in toll number (US/Canada): 1-650-479-3208 
 * Meeting number (access code): 319 927 920
