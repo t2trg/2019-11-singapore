@@ -35,6 +35,18 @@ Location: [Kent Ridge Guild House](https://www.nuss.org.sg/kent-ridge/27), Natio
 
 Time: 9:00 - 17:00, November 15th, 2019
 
+Details for transport from IETF hotels:
+* By cab:
+    - If three or four people share it won't be that much more than taking transit.
+    - Allow 30m.
+* Public transit:
+    - Get on the MRT Circle line (for example, at the Esplanade station near the Swisshotel) and get off at Kent Ridge Station.
+    - Take the free NUS shuttle bus leaving from nearby Bus Stop 3.   
+    - Take the A1 to get to the Guild House and the A2 to return.
+    - Allow 1h.
+    - It is not recommended to walk from the MRT to the Guild house.  The map is misleading, the terrain is hilly and the MRT is surrounded by a large hospital without good walking connection to NUS.  The area is unfortunately designed for cars.
+
+
 ## Remote participation
 
 WebEx: https://ietf.webex.com/ietf/j.php?MTID=m535485b7ca1a0bb1ccf9a4b983a9d898
