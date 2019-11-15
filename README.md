@@ -39,6 +39,8 @@ Detailed timing of the slots to be determined in the next few days.
 
 Location: [Kent Ridge Guild House](https://www.nuss.org.sg/kent-ridge/27), National University of Singapore (NUS) \[yes, they do have a [dress code][]\]
 
+Room: Evans (2nd floor)
+
 [dress code]: https://www.nuss.org.sg/news/nuss-dress-code-updated
 
 Time: 9:00 - 17:00, November 15th, 2019
