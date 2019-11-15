@@ -37,6 +37,8 @@ Detailed timing of the slots to be determined in the next few days.
 
 ## Logistics
 
+Live notes: https://hackmd.io/@G-qLhvWWQ5i-HVrfquEHWA/SyKRtdssS
+
 Location: [Kent Ridge Guild House](https://www.nuss.org.sg/kent-ridge/27), National University of Singapore (NUS) \[yes, they do have a [dress code][]\]
 
 Room: Evans (2nd floor)
