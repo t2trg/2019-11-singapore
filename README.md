@@ -17,9 +17,10 @@ Detailed timing of the slots to be determined in the next few days.
 | Time         | Topic                                                                |
 | ------------ | -------------------------------------------------------------------- |
 | 09:00..09:10 | Welcome, Logistics                                                   |
-| 09:10..09:55 | Keynote: W3C Web of Things (WoT) Status and Roadmap (Michael McCool) |
-| 09:55..10:20 | Introduction to role of semantics for IoT (Carsten Bormann)          |
-| 10:20..10:40 | — Break, Refreshments                                                |
+| 09:15..09:35 | Introduction to role of semantics for IoT (Carsten Bormann)          |
+| 09:35..10:00 | Keynote: W3C Web of Things (WoT) Status and Roadmap (Michael McCool) |
+| 10:00..10:20 | — Break, Refreshments                                                |
+| 10:20..10:40 | Discussion |
 | 10:40..11:10 | OneDM intro and goals, approach (Michael Koster)                     |
 | 11:00..12:00 | OneDM status, process, formats, examples (Michael Koster)            |
 | 12:00..13:00 | — Lunch Break (lunch in room)                                        |
